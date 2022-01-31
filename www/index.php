@@ -70,6 +70,6 @@ if ($clientDBName == 'delso_mm_portal')
             }(jQuery)
         );
     </script>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=delso_mm&client_id=9beb2c53b184deb77e3fbf266f879ae3" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=delso_mm&client_id=9b3ebc37e394193607aa563a04a8b173" type="text/javascript"></script>
 </body>
 </html>
